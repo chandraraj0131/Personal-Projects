@@ -1,6 +1,8 @@
 # Personal-Projects
 No rules here, can be completely self-serving, or maybe involve others. Can also seemingly have no purpose or be completely unrelated to job or hobbies.
 
+## Horse Colic 
+The dataset has 23 features and has a good mix of categorical and continuous features. It has a large number of features and instances with missing values, therefore understanding methods to replace these missing values and using it in modeling is made more practical in this treatment. Huge fraction of missing data (30%) is in fact a notable feature of this dataset. The data consists of attributes that are continuous, as well as categorical in type. Also, the presence of self-predictors makes working with this dataset instructive from a practical standpoint.
 
 
 ## Identif the Digits - MNIST 

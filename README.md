@@ -33,6 +33,6 @@ This project written on Python aims to convert any (compatible) music video into
 
 ## Vectorized Boston Housing Prices
 vectorized implementation of Multivariate Linear Regression on the Boston Housing Prices dataset. No existing machine learning algorithm is used. Executed solely by Numpy and Pandas.
-To my surprise, I couldn't find vectorization of linear regression to this widely known dataset in particular, so hopefully, I'm making a significant contribution to the #machinelearning community.
+To my surprise, I couldn't find vectorization of linear regression to this widely known dataset in particular, so hopefully, I'm making a significant contribution to the Machine Learning community.
 Why is vectorization important? To take complete advantage of computational power of computers, the most efficient way of implementing an algorithm is vectorizing the computations as it enables us to attain parallelized computations hence tapping into the limits of the system. It saves noteworthy time whose efficiency comes into play when dealing with Big data, where seconds in these small datasets translate to days.
 Thus, vectorization saves us on huge amount of training time and improves our algorithm.
